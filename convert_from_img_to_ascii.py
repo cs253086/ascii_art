@@ -48,6 +48,6 @@ def image_to_ascii(image_path, width=100):
     return ascii_art
 
 # Example usage
-image_path = '009_f2.png'
+image_path = 'image/pokemon/sample.webp'
 ascii_art = image_to_ascii(image_path)
 print(ascii_art)
